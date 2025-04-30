@@ -1,3 +1,6 @@
+Architectural Diagram Object Detection and Rendering
+====================================================
+
 This project focuses on detecting and rendering architectural elements from diagram images
 
 __File Structure:__
@@ -23,3 +26,6 @@ __File Structure:__
 * images/test/: Test images used for detection and rendering.
 
 We have used the ROBIN Dataset for the images
+
+__Requirements:__
+
