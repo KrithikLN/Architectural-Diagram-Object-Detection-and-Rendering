@@ -3,7 +3,7 @@ Architectural Diagram Object Detection and Rendering
 
 This project focuses on detecting and rendering architectural elements from diagram images
 
-__File Structure:__
+__Repository Structure:__
 
 * ArchTrain.pt: trained YOLOv7 model weight used for object detection.
 
@@ -27,5 +27,6 @@ __File Structure:__
 
 We have used the ROBIN Dataset for the images
 
+## Getting Started
 __Requirements:__
 
